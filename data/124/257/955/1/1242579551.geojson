@@ -46,7 +46,7 @@
         "gn:id":3577826
     },
     "wof:country":"VC",
-    "wof:geomhash":"3a40de39b57b2e0e0d8f4bb4202d8266",
+    "wof:geomhash":"ae4fcf5bb0e62ccb76b13de065a1da40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,5 +71,5 @@
     -61.24228000000001,
     13.27255
 ],
-  "geometry": {"coordinates":[-61.24228000000001,13.27255],"type":"Point"}
+  "geometry": {"coordinates":[-61.24228,13.27255],"type":"Point"}
 }

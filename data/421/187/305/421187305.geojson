@@ -148,7 +148,7 @@
     },
     "wof:country":"VC",
     "wof:created":1459009508,
-    "wof:geomhash":"e02251f41e47242c6f93c76c69e125bb",
+    "wof:geomhash":"60b1a16915a6c77ad01542ef0f9ed94d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -173,5 +173,5 @@
     -61.23333,
     13.0
 ],
-  "geometry": {"coordinates":[-61.23333,13.0],"type":"Point"}
+  "geometry": {"coordinates":[-61.23333,13],"type":"Point"}
 }
