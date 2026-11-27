@@ -1,0 +1,72 @@
+{
+  "id": 9895060404,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.20301,13.15447,-61.20301,13.15447",
+    "geom:latitude":13.15447,
+    "geom:longitude":-61.20301,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 3748737: name \"Cane Hall\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/3748737"
+        },
+        {
+            "citation":"GeoNames populated place 3748737: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/3748737"
+        },
+        {
+            "citation":"GeoNames populated place 3748737: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/3748737"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680451 (Saint George), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680451,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3748737
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"b6ca50a55bd0280939d85c70176f8bab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060404,
+            "region_id":85680451
+        }
+    ],
+    "wof:id":9895060404,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Cane Hall",
+    "wof:parent_id":85680451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.20301,
+    13.15447,
+    -61.20301,
+    13.15447
+],
+  "geometry": {"coordinates":[-61.20301,13.15447],"type":"Point"}
+}

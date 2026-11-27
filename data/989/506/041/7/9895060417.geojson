@@ -1,0 +1,72 @@
+{
+  "id": 9895060417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.18222,13.37599,-61.18222,13.37599",
+    "geom:latitude":13.37599,
+    "geom:longitude":-61.18222,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535711: name \"Campobello\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535711"
+        },
+        {
+            "citation":"GeoNames populated place 12535711: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535711"
+        },
+        {
+            "citation":"GeoNames populated place 12535711: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535711"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680449 (Saint David), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680449,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535711
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"aca860dfcca9230933f4685fc4e8fe00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060417,
+            "region_id":85680449
+        }
+    ],
+    "wof:id":9895060417,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Campobello",
+    "wof:parent_id":85680449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.18222,
+    13.37599,
+    -61.18222,
+    13.37599
+],
+  "geometry": {"coordinates":[-61.18222,13.37599],"type":"Point"}
+}

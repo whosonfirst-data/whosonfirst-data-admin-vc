@@ -1,0 +1,72 @@
+{
+  "id": 9895060445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.16332,13.28017,-61.16332,13.28017",
+    "geom:latitude":13.28017,
+    "geom:longitude":-61.16332,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535769: name \"Hollow Acres\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535769"
+        },
+        {
+            "citation":"GeoNames populated place 12535769: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535769"
+        },
+        {
+            "citation":"GeoNames populated place 12535769: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535769"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680433 (Charlotte), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535769
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"380aef031392c4f508de291516cb6a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060445,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":9895060445,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Hollow Acres",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.16332,
+    13.28017,
+    -61.16332,
+    13.28017
+],
+  "geometry": {"coordinates":[-61.16332,13.28017],"type":"Point"}
+}

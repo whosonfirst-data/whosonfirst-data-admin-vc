@@ -1,0 +1,72 @@
+{
+  "id": 9895060409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.21952,13.26053,-61.21952,13.26053",
+    "geom:latitude":13.26053,
+    "geom:longitude":-61.21952,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535701: name \"Palmyra\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535701"
+        },
+        {
+            "citation":"GeoNames populated place 12535701: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535701"
+        },
+        {
+            "citation":"GeoNames populated place 12535701: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535701"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680457 (Saint Patrick), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680457,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535701
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"80cd34c9d7cad854403f053bf8e2c6f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060409,
+            "region_id":85680457
+        }
+    ],
+    "wof:id":9895060409,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Palmyra",
+    "wof:parent_id":85680457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.21952,
+    13.26053,
+    -61.21952,
+    13.26053
+],
+  "geometry": {"coordinates":[-61.21952,13.26053],"type":"Point"}
+}

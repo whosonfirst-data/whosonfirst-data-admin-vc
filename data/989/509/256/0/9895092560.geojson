@@ -1,0 +1,72 @@
+{
+  "id": 9895092560,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1206,13.26162,-61.1206,13.26162",
+    "geom:latitude":13.26162,
+    "geom:longitude":-61.1206,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535754: name \"Chester Cottage\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535754"
+        },
+        {
+            "citation":"GeoNames populated place 12535754: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535754"
+        },
+        {
+            "citation":"GeoNames populated place 12535754: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535754"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680433 (Charlotte), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535754
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"8043aa32e70ae0a0e7126f57b255fe73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895092560,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":9895092560,
+    "wof:lastmodified":1795746166,
+    "wof:name":"Chester Cottage",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1206,
+    13.26162,
+    -61.1206,
+    13.26162
+],
+  "geometry": {"coordinates":[-61.1206,13.26162],"type":"Point"}
+}

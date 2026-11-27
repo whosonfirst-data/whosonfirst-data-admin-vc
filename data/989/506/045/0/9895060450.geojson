@@ -1,0 +1,72 @@
+{
+  "id": 9895060450,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.14167,13.36558,-61.14167,13.36558",
+    "geom:latitude":13.36558,
+    "geom:longitude":-61.14167,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535775: name \"Morgan\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535775"
+        },
+        {
+            "citation":"GeoNames populated place 12535775: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535775"
+        },
+        {
+            "citation":"GeoNames populated place 12535775: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535775"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680433 (Charlotte), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535775
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"96cf331723496a24b1d127841a9628be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060450,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":9895060450,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Morgan",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.14167,
+    13.36558,
+    -61.14167,
+    13.36558
+],
+  "geometry": {"coordinates":[-61.14167,13.36558],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895092557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.1155,13.29388,-61.1155,13.29388",
+    "geom:latitude":13.29388,
+    "geom:longitude":-61.1155,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535723: name \"Basin Hole\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535723"
+        },
+        {
+            "citation":"GeoNames populated place 12535723: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535723"
+        },
+        {
+            "citation":"GeoNames populated place 12535723: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535723"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680433 (Charlotte), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535723
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"e905c5ff69c200f4f729307155f03389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895092557,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":9895092557,
+    "wof:lastmodified":1795746166,
+    "wof:name":"Basin Hole",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.1155,
+    13.29388,
+    -61.1155,
+    13.29388
+],
+  "geometry": {"coordinates":[-61.1155,13.29388],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 9895060453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.23118,13.20089,-61.23118,13.20089",
+    "geom:latitude":13.20089,
+    "geom:longitude":-61.23118,
+    "gn:population":482,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13526723: name \"Retreat\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13526723"
+        },
+        {
+            "citation":"GeoNames populated place 13526723: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13526723"
+        },
+        {
+            "citation":"GeoNames populated place 13526723: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13526723"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680443 (Saint Andrew), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680443,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13526723
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"5a8a2d394f418a5e6985cd125fdf72e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060453,
+            "region_id":85680443
+        }
+    ],
+    "wof:id":9895060453,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Retreat",
+    "wof:parent_id":85680443,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.23118,
+    13.20089,
+    -61.23118,
+    13.20089
+],
+  "geometry": {"coordinates":[-61.23118,13.20089],"type":"Point"}
+}

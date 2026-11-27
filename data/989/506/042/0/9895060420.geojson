@@ -1,0 +1,72 @@
+{
+  "id": 9895060420,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.14479,13.35486,-61.14479,13.35486",
+    "geom:latitude":13.35486,
+    "geom:longitude":-61.14479,
+    "iso:country":"VC",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12535721: name \"Victoria Village\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12535721"
+        },
+        {
+            "citation":"GeoNames populated place 12535721: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12535721"
+        },
+        {
+            "citation":"GeoNames populated place 12535721: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12535721"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680433 (Charlotte), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632569,
+        85680433,
+        102191575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12535721
+    },
+    "wof:country":"VC",
+    "wof:geomhash":"9ddbd0a4012f56b0ed638e19891b2cd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632569,
+            "locality_id":9895060420,
+            "region_id":85680433
+        }
+    ],
+    "wof:id":9895060420,
+    "wof:lastmodified":1795735121,
+    "wof:name":"Victoria Village",
+    "wof:parent_id":85680433,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vc",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.14479,
+    13.35486,
+    -61.14479,
+    13.35486
+],
+  "geometry": {"coordinates":[-61.14479,13.35486],"type":"Point"}
+}
